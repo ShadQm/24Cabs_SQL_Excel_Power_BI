@@ -1,4 +1,4 @@
-# OlaBookingDataset
+# 24CabsBookingDataset
 
 ### 1. Retrieve all successful bookings:
 ```sql
