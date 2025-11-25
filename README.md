@@ -1,4 +1,5 @@
 # 🚕 24Cabs Ride Performance Dashboard — July 2024
+![Overall_dashboard.png](https://github.com/ShadQm/24Cabs_SQL_Excel_Power_BI/blob/main/Overall_dashboard.png)
 ## 📌 Project Objective
 
 Analyze ride booking performance, cancellation causes, revenue trends, and driver/customer ratings across multiple vehicle types.
